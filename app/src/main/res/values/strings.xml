@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RestAPIGithubIntegration</string>
+    <string name="usernameHint">Enter Username</string>
+    <string name="btnLogin">Login</string>
+    <string name="btnRepository">Repositories</string>
+
+</resources>
